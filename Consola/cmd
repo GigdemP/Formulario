@@ -1,0 +1,7 @@
+
+C:\laragon\www
+λ cd\laragon\www\formulario
+
+C:\laragon\www\Formulario
+λ php artisan make:controller mulan
+Controller created successfully.
